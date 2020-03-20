@@ -1,2 +1,5 @@
-# Topic-Modelling
-You will evaluate latent Dirichlet allocation models and execute non-negative matrix factorization models. Finally, you will interpret the results of topic models and identify the best topic model for the given scenario.  You will see how topic modelling provides insights into the underlying structure of documents. By the end of this course, you will be able to build fully functioning topic models to derive value and insights for your business.
+# Topic Modelling
+[![GitHub issues](https://img.shields.io/github/issues/Develop-Packt/Topic-Modelling.svg)](https://github.com/Develop-Packt/Topic-Modelling/issues)
+[![GitHub forks](https://img.shields.io/github/forks/Develop-Packt/Topic-Modelling.svg)](https://github.com/Develop-Packt/Topic-Modelling/network)
+[![GitHub stars](https://img.shields.io/github/stars/Develop-Packt/Topic-Modelling.svg)](https://github.com/Develop-Packt/Topic-Modelling/stargazers)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Develop-Packt/Topic-Modelling/pulls)
