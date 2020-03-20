@@ -1,0 +1,2 @@
+# Topic-Modelling
+You will evaluate latent Dirichlet allocation models and execute non-negative matrix factorization models. Finally, you will interpret the results of topic models and identify the best topic model for the given scenario.  You will see how topic modelling provides insights into the underlying structure of documents. By the end of this course, you will be able to build fully functioning topic models to derive value and insights for your business.
